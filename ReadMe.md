@@ -1,1 +1,6 @@
-NextFlow
+# NextFlow
+
+## Motivation
+
+
+## How to setup
